@@ -29,5 +29,6 @@ robust_filter_attention/
 
 Note: This repository contains the original research codebase used for all experiments and ablations in the paper. A streamlined version is planned for the final release.
 
-Training on Wikitext-103 or BabyLM 2025 requires (a) downloading these datasets and placing them in ./datsets and (b) downloading the GPT2 Tokenizer to ./gpt2_tokenizer. The model can be easily tested using Main - Dynamics Training, which generates its own synthetic data (a simulation of a simple LTI system).
+Training on Wikitext-103 or BabyLM 2025 requires (a) downloading these datasets and placing them in ./datasets and (b) downloading the GPT2 Tokenizer to ./gpt2_tokenizer. The model can be easily tested using Main - Dynamics Training, which generates its own synthetic data (a simulation of a simple LTI system).
+
 
